@@ -1,0 +1,5 @@
+cloud_id  = "hfpsodhfuisdhfuhdsuh"   # Your Yandex Cloud ID
+
+folder_id = "dhoi3oi12h389y893yah"   # Your Yandex Folder ID
+
+image_id = "fd8guulcbigbchtaubtg" # ID of the boot disk image. For example this a Fedora 37
